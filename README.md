@@ -1,3 +1,3 @@
 # openGL-Whitted-Ray-Tracing
-assignment pf openGL course
+Assignment of openGL course
 - https://www.shadertoy.com/view/MltBRS
