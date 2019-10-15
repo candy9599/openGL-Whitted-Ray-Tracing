@@ -1,7 +1,5 @@
 //============================================================================
 // STUDENT NAME:Kuang Hao
-// MATRIC NO.  :A0191488N
-// NUSNET ID   :E0338132
 // COMMENTS TO GRADER: The intersection part for sphere is easy according to
 // lecture 8. There are however some trouble with ordering sequence for rays
 // to intersect with spheres and planes, which took me some time.
